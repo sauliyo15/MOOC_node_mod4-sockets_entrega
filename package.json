@@ -5,9 +5,9 @@
     "version": "0.0.0",
     "info": {
         "githubURL": "ging-moocs/MOOC_node_mod4-sockets_entrega",
-        "serverUrl": "https://autocorector.dit.upm.es/",
-        "courseId": "2",
-        "assignmentId": "10"
+        "serverUrl": "https://moocauto.dit.upm.es/",
+        "courseId": "452",
+        "assignmentId": "232"
     },
     "engines": {
         "node": "12.16"
