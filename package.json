@@ -7,7 +7,7 @@
         "githubURL": "ging-moocs/MOOC_node_mod4-sockets_entrega",
         "serverUrl": "https://moocauto.dit.upm.es/",
         "courseId": "452",
-        "assignmentId": "232"
+        "assignmentId": "293"
     },
     "assets": [
         "./node_modules/sqlite3/lib/binding/**/*"
