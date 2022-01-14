@@ -3,9 +3,9 @@
 
 <br/><br/><br/>
 
-# Módulo 4: Nivel de transporte, interfaz de sockets y ejemplos de aplicaciones cliente servidor - Entrega P2P: Sockets
+# Módulo 4: Nivel de transporte - Sockets
 
-Versión: 10 de octubre de 2021
+Versión: 14 de enero de 2022
 
 ## Objetivos
  * Afianzar los conocimientos obtenidos sobre el desarrollo de aplicaciones cliente-servidor utilizando sockets TCP.
@@ -18,7 +18,7 @@ Esta práctica consiste en la modificación del proyecto de gestión de usuarios
 
 ## Descargar el código del proyecto
 
-Es necesario utilizar la **versión 12 de Node.js** para el desarrollo de esta práctica. El proyecto debe clonarse en el ordenador desde el que se está trabajando: 
+Es necesario utilizar la **versión 16 de Node.js**  (> 16.8) para el desarrollo de esta práctica. El proyecto debe clonarse en el ordenador desde el que se está trabajando: 
 
 ```
 $ git clone https://github.com/ging-moocs/MOOC_node_mod4-sockets_entrega

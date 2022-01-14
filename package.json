@@ -9,6 +9,9 @@
         "courseId": "452",
         "assignmentId": "232"
     },
+    "assets": [
+        "./node_modules/sqlite3/lib/binding/**/*"
+    ],
     "scripts": {
         "migrate": "sequelize db:migrate --url sqlite://$(pwd)/db.sqlite",
         "seed": "sequelize db:seed:all --url sqlite://$(pwd)/db.sqlite",
