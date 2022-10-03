@@ -5,9 +5,9 @@
     "version": "0.0.0",
     "info": {
         "githubURL": "ging-moocs/MOOC_node_mod4-sockets_entrega",
-        "serverUrl": "https://moocauto.dit.upm.es/",
-        "courseId": "452",
-        "assignmentId": "293"
+        "serverUrl": "https://moocbot.dit.upm.es/",
+        "courseId": "1262",
+        "assignmentId": "548"
     },
     "assets": [
         "./node_modules/sqlite3/lib/binding/**/*"
@@ -26,6 +26,7 @@
     "dependencies": {
         "sequelize": "^6.6.5",
         "sequelize-cli": "^6.2.0",
-        "sqlite3": "^5.0.2"
+        "sqlite3": "^5.0.2",
+        "autocorector": "^3.1.3"
     }
 }
